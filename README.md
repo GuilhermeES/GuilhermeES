@@ -39,5 +39,4 @@ Here are some ideas to get you started:
 <div class="">
   https://guilhermees.github.io/portfolio/
 </div>
-  <img src="https://user-images.githubusercontent.com/50378131/168171370-8a8cf0b1-59e1-47e7-a54b-5b52f2c4d9ff.gif" width="80" />
 
