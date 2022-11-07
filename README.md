@@ -37,6 +37,6 @@ Here are some ideas to get you started:
 
 ### Portfólio 🔗
 <div class="">
-  https://guilhermees.github.io/portfolio/](https://main--guilherme-es-portfolio.netlify.app/
+  https://main--guilherme-es-portfolio.netlify.app/
 </div>
 
